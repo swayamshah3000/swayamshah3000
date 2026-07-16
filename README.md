@@ -16,7 +16,7 @@
 
 🔭 Currently building **FirstSalary Quest** — a financial-literacy simulator for students & fresh grads  
 🌱 Exploring **AI**  
-📫 Reach me at **your-email@gmail.com**
+📫 Reach me at **swayamhshah03@gmail.com**
 
 </div>
 
