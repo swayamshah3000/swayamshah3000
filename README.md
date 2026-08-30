@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&pause=1000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm+Swayam!;Welcome+to+my+profile!" />
 </h1>
-<h3 align="center">Full Stack Developer exploring the world of AI</h3>
+<h3 align="center">Exploring the world of AI</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swayamshah3000&color=blueviolet&style=flat" alt="profile views" />
 </p>
